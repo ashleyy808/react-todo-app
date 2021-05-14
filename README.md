@@ -1,4 +1,4 @@
-# Welcome to my React-Todo App
+# Welcome to my Reggae Themed React-Todo App
 
 ## Features
 - Create a task 
